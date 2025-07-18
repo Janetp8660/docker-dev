@@ -8,3 +8,4 @@ Notes and usage details for docker-dev.
 - link the usage section
 - link the usage section
 - link the usage section
+- fix a small wording issue
