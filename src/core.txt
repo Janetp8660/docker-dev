@@ -31,3 +31,4 @@ A local Docker Environment for building PHP applications 🔨
 # guard against empty input
 # keep defaults in sync with the manifest
 # guard against empty input
+# avoid re-reading the config on every call
